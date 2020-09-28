@@ -1,0 +1,129 @@
+#main-wrapper{
+    width:700px;
+height: 500x;
+    margin:0 auto;
+    background:rgba(248, 248, 248,0.3);
+    padding: 20px;
+    margin:8% auto 0;
+    border-radius: 10px ;
+    border:3px solid black;
+    align-content: center;
+    box-shadow: 0 0 0 3px 0 rgba(0,0,0,0.3);
+    text-align: center;
+    font-size:30px;
+    vertical-align:middle;
+    position: justify;
+    
+}
+.inputround
+
+{
+    outline:navajowhite;
+
+width:70px;
+height: 40px;
+}
+body{
+    margin:0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-image:url(https://tse4.mm.bing.net/th?id=OIP.VZFiVFGR6aN5zltyiHsUGAHaE7&pid=Api&P=0&w=281&h=188) ;
+    background-size: cover;
+    background-position:center ;
+}
+.inputbox
+{
+    border-radius: 20px;
+    padding: 10px;
+    margin:10px 0;
+    width:100%;
+    font-size: 30px;
+    border:1px solid #999;
+    outline:navajowhite;
+    height: 70px;
+}
+.image{
+    width:400px;
+height: 400 px;
+
+border-radius: 100%;
+}
+#logout
+{
+    margin-top:10px;
+    margin-bottom: 10px;
+    background-color:lightcyan;
+    padding: 5px;
+    width:70%;
+    height: 5%;
+    color: black;
+    text-align: center;
+    font-style:bold;
+    font-size: 30px;
+    font-weight: bolder;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#login
+{
+    cursor: pointer;
+    margin-top:10px 0;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background-color:rgb(86, 240, 240);
+    padding: 5px;
+    width:70%;
+    height: 5%;
+    color: rgb(0, 75, 173);
+    text-align: center;
+    font-style:bold;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#registerbtn
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    margin-top:20px;
+    margin-bottom: 20px;
+    background-color: blue;
+    padding: 5px;
+    width:70%;
+    height: 5%;
+    color: rgb(247, 240, 240);
+    border-radius: 20px;
+    text-align: center;
+    font-style: bold;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#backbtn
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top:10px;
+    margin-bottom: 10px;
+    background-color:rgba(255, 102, 0, 0.932);
+    padding: 5px;
+    width:70%;
+    height: 5%;
+    color: rgb(247, 240, 240);
+    border-radius: 20px;
+    text-align: center;
+    font-style:bold;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.myform
+{
+    widows: 7px;00px;
+    height: auto;
+    text-align: center;
+
+
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding:5px;
+    margin: 1 solid auto 0;
+
+}
